@@ -1,2 +1,1 @@
-My first redme
-My first readme
+Am very intrested in software engineering
